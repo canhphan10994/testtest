@@ -496,10 +496,6 @@ footer {
   letter-spacing: 0.15px;
 }
 
-.footer__link .exploreLink a {
-  color: black;
-}
-
 .footer__link .exploreLink a:hover {
   color: #f2726f;
 }
