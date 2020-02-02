@@ -795,6 +795,7 @@ header {
 .video__img-ball {
   right: 43.68px;
   top: 113.85px;
+  z-index:2;
 }
 
 .service {
