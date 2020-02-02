@@ -108,23 +108,23 @@ ul {
 }
 
 .txt-gray-1 {
-  color: var(--color-gray-1);
+  color: var(--color-gray-1) !important;
 }
 
 .txt-gray-2 {
-  color: var(--color-gray-2);
+  color: var(--color-gray-2) !important;
 }
 
 .txt-gray-8 {
-  color: var(--color-gray-8);
+  color: var(--color-gray-8) !important;
 }
 
 .txt-gray-11 {
-  color: var(--color-gray-11);
+  color: var(--color-gray-11) !important;
 }
 
 .txt-gray-4 {
-  color: var(--color-gray-4);
+  color: var(--color-gray-4) !important;
 }
 
 .txt-white {
