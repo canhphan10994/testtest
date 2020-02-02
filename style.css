@@ -668,7 +668,7 @@ body {
   width: 1440px;
   height: 800px;
   margin: auto;
-  background-image: url("/build/img/duotone.jpg");
+  background-image: url("img/duotone.jpg");
   position: relative;
 }
 
@@ -830,7 +830,7 @@ header {
 }
 
 .appointment {
-  background-image: url("/build/img/duotone2.png");
+  background-image: url("img/duotone2.png");
   padding: 130px 210px;
   position: relative;
   z-index: 2;
